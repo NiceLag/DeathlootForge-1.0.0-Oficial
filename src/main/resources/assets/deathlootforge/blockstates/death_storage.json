@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "deathlootforge:block/death_storage" }
+  }
+}
